@@ -86,6 +86,33 @@ h1{
     height: 100%;
     background-color: white;
 }
+.abt {
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    margin-top: 8%;
+}
+
+.abt1 {
+    margin-left: 25%;
+}
+
+.abt2 {
+    padding: 1%;
+    width: 70%;
+    margin: auto;
+    margin-top:8%;
+}
+
+.abt3 {
+    display: flex;
+    margin-left: 23%;
+    margin-top: 8%;
+}
+
+.img2 {
+    width: 10%;
+}
 
 
 .skills {
@@ -201,17 +228,28 @@ h1{
 .foot {
     height: 60vh;
     width: 40%;
-    justify-content: space-between;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: white;
-    position: relative;
     margin: auto;
     margin-top: 50px;
 }
 
+.mail {
+    width: 50%;
+    height: 100%;
+    border: solid black 1px;
+}
+ .form {
+    width: 50%;
+    height: 100%;
+    border: solid black 1px;
+ }
 
+ .footer {
+     height: 80%;
+     display: flex;
+    
+ }
+
+ .ft {
+     
+ }
