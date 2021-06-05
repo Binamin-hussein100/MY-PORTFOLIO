@@ -118,7 +118,7 @@ h1{
 }
 
 
-.contact {
+.skills {
     width: 50%;
     height: 100%;
     display: flex;
@@ -137,23 +137,23 @@ h1{
     color: black;
 }
 
-.cont1 {
+.skill1 {
     border: blue 2px;
-    height: 50%;
+    height: 75%;
     width: 30%;
     background-color: aliceblue;
 
 }
 
-.cont2 {
-    height: 50%;
+.skill2 {
+    height: 75%;
     width: 30%;
     background-color: aqua;
     
 }
 
-.cont3 {
-    height: 50%;
+.skill3 {
+    height: 75%;
     width: 30%;
     background-color: black;
     
