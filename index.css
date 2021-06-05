@@ -3,18 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-.container {
-    padding: 2%;
-    position: relative;
-    margin: auto;
-    width: 90%;
-    height: 250vh;
-    box-shadow: 0 0 5px 2.5px black;
-    border-radius: 10px;
-    background-color: #F5F0ED;
-}
-
+ 
 .intro{
     width: 50%;
     height: 50vh;
@@ -32,6 +21,12 @@ img {
     height: 100%;
     width: 100%;
     
+}
+
+.content {
+    width: 60%;
+    height: 100%;
+    background-color:  #F06359;
     
 }
 
@@ -50,17 +45,11 @@ img {
     width: 80%;
     margin: auto;
     padding: 2px;
+    margin-top: 24%;
 }
-
-.port {
-    color: white;
-    font-size: 120%;
-}
-
 
 h1{
-    margin-top: 25%;
-    margin-bottom: 15%;
+   
     color: white;
     font-size: 250%;
     font-weight: bolder;
@@ -68,9 +57,147 @@ h1{
     
 } 
 
-.content {
-    width: 60%;
+
+.port {
+    color: white;
+    font-size: 120%;
+}
+
+.container {
+    padding: 2%;
+    position: relative;
+    margin: auto;
+    width: 90%;
+    height: 250vh;
+    box-shadow: 0 0 5px 2.5px black;
+    border-radius: 10px;
+    background-color: #F5F0ED;
+}
+
+.about {
+    height: 60vh;
+    margin-top: 3vh;
+    display: flex;
+}
+
+.aboutme {
+    width: 50%;
     height: 100%;
-    background-color:  #F06359;
+    background-color: white;
+}
+
+.abt0 {
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    align-content: center
     
 }
+
+.abt-5{
+    width: 70%;
+    margin: auto;
+}
+
+.abt {
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    color: #F06359;
+}
+.abt1 {
+   
+    font-weight: 50;
+    width: 65%;
+}
+
+.abt2 {
+    width: 50%;
+    text-align: center;
+    position: relative;
+}
+
+
+.contact {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-color: #F06359;
+}
+
+.prj {
+    background-color: blue;
+    display: flex;
+}
+
+
+.project {
+    color: black;
+}
+
+.cont1 {
+    border: blue 2px;
+    height: 50%;
+    width: 30%;
+    background-color: aliceblue;
+
+}
+
+.cont2 {
+    height: 50%;
+    width: 30%;
+    background-color: aqua;
+    
+}
+
+.cont3 {
+    height: 50%;
+    width: 30%;
+    background-color: black;
+    
+}
+
+.create {
+    height: 60vh;
+    margin-top: 3vh;
+    display: flex;
+}
+
+.works {
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    align-items:center ;
+    justify-content: center;
+    padding: 4% 10% ;
+}
+
+.network {
+    width: 50%;
+    height: 100%;
+    align-items:center ;
+    justify-content: center;
+    padding: 4% 10% ;
+
+    background-color: #F06359;
+}
+
+.foot {
+    height: 60vh;
+    width: 40%;
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
