@@ -245,12 +245,16 @@ h1{
  }
 
  .footer {
-     height: 85%;
+     height: 80%;
      display: flex;
-     margin-top: 12%;
+     margin-top: 2%;
     
  }
 
  .ft {
      margin-left: 34%;
+ }
+
+ .tf {
+       padding: 1%;
  }
