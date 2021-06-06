@@ -285,3 +285,28 @@ h1{
      color: black;
  }
 
+ .input-box {
+     width: 88%;
+     height: 5vh;
+     margin: 2%;
+ }
+
+ .email1 {
+    width: 88%;
+    height: 5vh;
+    margin: 2%;
+ }
+
+ .subject {
+    width: 88%;
+    height: 10vh;
+    margin: 2%;
+ }
+
+ button {
+    width: 88%;
+    height: 5vh;
+    margin: 2%;
+    margin-top: 11%;
+ }
+
